@@ -1,7 +1,8 @@
 # nosql-challenge
 
 This challenge was focusing on food saftey ratings from the UK Food Standards Agency to help magzine writers decide where they should write in their next articles. 
-
+## Updated code 
+I have updated the code to fix the errors that meant that any querry returned no result 
 ## Part 1: Database and Jupyter Notebook Set Up
     - The database was imported from the Json file in resources 
     - it was then stored in the UK food database and the establishments collection
@@ -14,3 +15,4 @@ This challenge was focusing on food saftey ratings from the UK Food Standards Ag
     - changed the establishments in Dover and deleted it. 
 
 For this project, I mainly used the module 12 instructions to help me out. 
+
